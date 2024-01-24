@@ -1,4 +1,4 @@
-package com.nesterrovv.spring.files.upload.db.model;
+package com.nesterrovv.vpnfilemanager.model;
 
 import javax.persistence.*;
 

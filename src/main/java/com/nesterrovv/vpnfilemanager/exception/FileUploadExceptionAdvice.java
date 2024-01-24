@@ -1,6 +1,6 @@
-package com.nesterrovv.spring.files.upload.db.exception;
+package com.nesterrovv.vpnfilemanager.exception;
 
-import com.nesterrovv.spring.files.upload.db.message.ResponseMessage;
+import com.nesterrovv.vpnfilemanager.message.ResponseMessage;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
