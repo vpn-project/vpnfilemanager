@@ -1,4 +1,4 @@
-package com.nesterrovv.spring.files.upload.db.message;
+package com.nesterrovv.vpnfilemanager.message;
 
 public class ResponseFile {
   private String name;

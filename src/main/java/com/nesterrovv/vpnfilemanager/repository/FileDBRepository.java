@@ -1,6 +1,6 @@
-package com.nesterrovv.spring.files.upload.db.repository;
+package com.nesterrovv.vpnfilemanager.repository;
 
-import com.nesterrovv.spring.files.upload.db.model.FileDB;
+import com.nesterrovv.vpnfilemanager.model.FileDB;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,9 +1,9 @@
-package com.nesterrovv.spring.files.upload.db.controller;
+package com.nesterrovv.vpnfilemanager.controller;
 
-import com.nesterrovv.spring.files.upload.db.message.ResponseFile;
-import com.nesterrovv.spring.files.upload.db.message.ResponseMessage;
-import com.nesterrovv.spring.files.upload.db.model.FileDB;
-import com.nesterrovv.spring.files.upload.db.service.FileStorageService;
+import com.nesterrovv.vpnfilemanager.message.ResponseFile;
+import com.nesterrovv.vpnfilemanager.message.ResponseMessage;
+import com.nesterrovv.vpnfilemanager.model.FileDB;
+import com.nesterrovv.vpnfilemanager.service.FileStorageService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
